@@ -6,7 +6,6 @@ Game 1: Is That Even?
 
 [![asciicast](https://asciinema.org/a/556049.svg)](https://asciinema.org/a/556049)
 
-
 Game 2: Calculator
 
-https://asciinema.org/a/eJwhzLuooqIj8UrUYt95Xtvm3
+[![asciicast](https://asciinema.org/a/556053.svg)](https://asciinema.org/a/556053)
