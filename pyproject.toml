@@ -9,19 +9,6 @@ packages = [
   { include = "brain_games" },
 ]
 
-classifiers = [
-    "License :: Free for non-commercial use",
-    "Natural Language :: English",
-    "Programming Language :: Python :: 3.8"
-]
-
-[tool.poetry.dependencies]
-python = "^3.8"
-prompt = "^0.4.1"
-
-[tool.poetry.dev-dependencies]
-flake8 = "^4.0.1"
-
 [tool.poetry.scripts]
 brain-games = "brain_games.scripts.brain_games:main"
 brain-even = "brain_games.scripts.brain_even:main"
@@ -29,6 +16,15 @@ brain-calc = "brain_games.scripts.brain_calc:main"
 brain-gcd = "brain_games.scripts.brain_gcd:main"
 brain-progression = "brain_games.scripts.brain_progression:main"
 
+
+[tool.poetry.dependencies]
+python = "^3.11"
+prompt = "^0.4.1"
+
+
+[tool.poetry.group.dev.dependencies]
+flake8 = "^6.0.0"
+
 [build-system]
-requires = ["poetry-core>=1.0.0"]
+requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
