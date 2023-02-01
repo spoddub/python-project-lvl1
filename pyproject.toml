@@ -4,6 +4,7 @@ version = "0.1.0"
 description = "Brain Games: the collection of 5 math mini-games"
 authors = ["spoddub <spoddub98@gmail.com>"]
 readme = "README.md"
+
 packages = [
   { include = "brain_games" },
 ]
