@@ -13,3 +13,7 @@ Game 2: Calculator
 Game 3: Greatest Common Divisor
 
 <a href="https://asciinema.org/a/556251" target="_blank"><img src="https://asciinema.org/a/556251.svg" /></a>
+
+Game 4: Progression
+
+<a href="https://asciinema.org/a/556253" target="_blank"><img src="https://asciinema.org/a/556253.svg" /></a>
