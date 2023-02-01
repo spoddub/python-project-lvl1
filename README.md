@@ -9,3 +9,7 @@ Game 1: Is That Even?
 Game 2: Calculator
 
 [![asciicast](https://asciinema.org/a/556053.svg)](https://asciinema.org/a/556053)
+
+Game 3: Greatest Common Divisor
+
+<a href="https://asciinema.org/a/556251" target="_blank"><img src="https://asciinema.org/a/556251.svg" /></a>
