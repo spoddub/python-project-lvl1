@@ -9,6 +9,12 @@ packages = [
   { include = "brain_games" },
 ]
 
+classifiers = [
+    "License :: Free for non-commercial use",
+    "Natural Language :: English",
+    "Programming Language :: Python :: 3.11"
+]
+
 [tool.poetry.scripts]
 brain-games = "brain_games.scripts.brain_games:main"
 brain-even = "brain_games.scripts.brain_even:main"
