@@ -17,3 +17,7 @@ Game 3: Greatest Common Divisor
 Game 4: Progression
 
 <a href="https://asciinema.org/a/556253" target="_blank"><img src="https://asciinema.org/a/556253.svg" /></a>
+
+Game 5: Prime Number
+
+<a href="https://asciinema.org/a/556256" target="_blank"><img src="https://asciinema.org/a/556256.svg" /></a>
